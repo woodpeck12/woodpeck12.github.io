@@ -7,11 +7,11 @@ This post is just testing component
 
 ## Image
 
-![Placeholder](/assets/img/aboutme.jpg)
+![Placeholder](/assets/img/testing.jpg)
 
 
 ## Header
-
+The below is header testing
 # Head 1
 ## Head 2
 ### Head 3
@@ -22,14 +22,14 @@ This post is just testing component
 
 ## Lists
 
-Unordered list
+Unordered list testing
 
 *   I am the first unordered list item
 *   I am the second unordered list item
 *   I am the third unordered list item
 
 
-Ordered list
+Ordered list testing
 
 1.  I am the first ordered list item
 1.  I am the second ordered list item
@@ -38,10 +38,9 @@ Ordered list
 
 ## Code block
 
-```python
-def func(x):
-    print('hello, world')
-    print('this is a really long statements, this is a really long statementsi, this is a really long statements')
+```java
+int i = (byte) + (char) - (int) + (long) - 1;
+System.out.println(i);
 ```
 
 ## Inline code
